@@ -1,0 +1,298 @@
+Date,Time,HomeTeam,Score,AwayTeam,Week,Season
+12/08/2022,20:15,FC Famalicão,,SC Braga,J2,2022-2023
+13/08/2022,18:00,Casa Pia,,Benfica,J2,2022-2023
+13/08/2022,20:30,Sporting,,Rio Ave,J2,2022-2023
+14/08/2022,15:30,Boavista,,Santa Clara,J2,2022-2023
+14/08/2022,18:00,FC Vizela,,FC Porto,J2,2022-2023
+14/08/2022,20:30,Vitória SC,,Estoril Praia,J2,2022-2023
+15/08/2022,15:30,Marítimo,,GD Chaves,J2,2022-2023
+15/08/2022,18:00,FC Arouca,,Gil Vicente,J2,2022-2023
+15/08/2022,20:30,Paços de Ferreira,,Portimonense,J2,2022-2023
+19/08/2022,20:15,Estoril Praia,,Rio Ave,J3,2022-2023
+20/08/2022,15:30,Santa Clara,,FC Arouca,J3,2022-2023
+20/08/2022,18:00,GD Chaves,,FC Vizela,J3,2022-2023
+20/08/2022,20:30,FC Porto,,Sporting,J3,2022-2023
+21/08/2022,15:30,Casa Pia,,Boavista,J3,2022-2023
+21/08/2022,18:00,SC Braga,,Marítimo,J3,2022-2023
+21/08/2022,20:30,Portimonense,,Vitória SC,J3,2022-2023
+22/08/2022,20:15,Gil Vicente,,FC Famalicão,J3,2022-2023
+26/08/2022,20:15,Paços de Ferreira,,Estoril Praia,J4,2022-2023
+27/08/2022,15:30,Marítimo,,Portimonense,J4,2022-2023
+27/08/2022,18:00,Boavista,,Benfica,J4,2022-2023
+27/08/2022,20:30,Sporting,,GD Chaves,J4,2022-2023
+28/08/2022,15:30,FC Famalicão,,Santa Clara,J4,2022-2023
+28/08/2022,18:00,FC Arouca,,SC Braga,J4,2022-2023
+28/08/2022,20:30,Rio Ave,,FC Porto,J4,2022-2023
+29/08/2022,19:00,Vitória SC,,Casa Pia,J4,2022-2023
+29/08/2022,21:15,FC Vizela,,Gil Vicente,J4,2022-2023
+30/08/2022,20:15,Benfica,,Paços de Ferreira,J3,2022-2023
+04/09/2022,Não Agendado,Benfica,,FC Vizela,J5,2022-2023
+04/09/2022,Não Agendado,Boavista,,Paços de Ferreira,J5,2022-2023
+04/09/2022,Não Agendado,Casa Pia,,FC Arouca,J5,2022-2023
+04/09/2022,Não Agendado,Estoril Praia,,Sporting,J5,2022-2023
+04/09/2022,Não Agendado,GD Chaves,,Rio Ave,J5,2022-2023
+04/09/2022,Não Agendado,Gil Vicente,,FC Porto,J5,2022-2023
+04/09/2022,Não Agendado,Portimonense,,FC Famalicão,J5,2022-2023
+04/09/2022,Não Agendado,SC Braga,,Vitória SC,J5,2022-2023
+04/09/2022,Não Agendado,Santa Clara,,Marítimo,J5,2022-2023
+11/09/2022,Não Agendado,FC Arouca,,Boavista,J6,2022-2023
+11/09/2022,Não Agendado,FC Famalicão,,Benfica,J6,2022-2023
+11/09/2022,Não Agendado,FC Porto,,GD Chaves,J6,2022-2023
+11/09/2022,Não Agendado,FC Vizela,,Estoril Praia,J6,2022-2023
+11/09/2022,Não Agendado,Marítimo,,Gil Vicente,J6,2022-2023
+11/09/2022,Não Agendado,Paços de Ferreira,,Casa Pia,J6,2022-2023
+11/09/2022,Não Agendado,Rio Ave,,SC Braga,J6,2022-2023
+11/09/2022,Não Agendado,Sporting,,Portimonense,J6,2022-2023
+11/09/2022,Não Agendado,Vitória SC,,Santa Clara,J6,2022-2023
+18/09/2022,Não Agendado,Benfica,,Marítimo,J7,2022-2023
+18/09/2022,Não Agendado,Boavista,,Sporting,J7,2022-2023
+18/09/2022,Não Agendado,Casa Pia,,FC Famalicão,J7,2022-2023
+18/09/2022,Não Agendado,Estoril Praia,,FC Porto,J7,2022-2023
+18/09/2022,Não Agendado,FC Arouca,,Vitória SC,J7,2022-2023
+18/09/2022,Não Agendado,Gil Vicente,,Rio Ave,J7,2022-2023
+18/09/2022,Não Agendado,Portimonense,,GD Chaves,J7,2022-2023
+18/09/2022,Não Agendado,SC Braga,,FC Vizela,J7,2022-2023
+18/09/2022,Não Agendado,Santa Clara,,Paços de Ferreira,J7,2022-2023
+02/10/2022,Não Agendado,FC Famalicão,,Boavista,J8,2022-2023
+02/10/2022,Não Agendado,FC Porto,,SC Braga,J8,2022-2023
+02/10/2022,Não Agendado,FC Vizela,,Portimonense,J8,2022-2023
+02/10/2022,Não Agendado,GD Chaves,,Estoril Praia,J8,2022-2023
+02/10/2022,Não Agendado,Marítimo,,Casa Pia,J8,2022-2023
+02/10/2022,Não Agendado,Paços de Ferreira,,FC Arouca,J8,2022-2023
+02/10/2022,Não Agendado,Rio Ave,,Santa Clara,J8,2022-2023
+02/10/2022,Não Agendado,Sporting,,Gil Vicente,J8,2022-2023
+02/10/2022,Não Agendado,Vitória SC,,Benfica,J8,2022-2023
+09/10/2022,Não Agendado,Benfica,,Rio Ave,J9,2022-2023
+09/10/2022,Não Agendado,Boavista,,Marítimo,J9,2022-2023
+09/10/2022,Não Agendado,Casa Pia,,FC Vizela,J9,2022-2023
+09/10/2022,Não Agendado,FC Arouca,,FC Famalicão,J9,2022-2023
+09/10/2022,Não Agendado,Gil Vicente,,Estoril Praia,J9,2022-2023
+09/10/2022,Não Agendado,Paços de Ferreira,,Vitória SC,J9,2022-2023
+09/10/2022,Não Agendado,Portimonense,,FC Porto,J9,2022-2023
+09/10/2022,Não Agendado,SC Braga,,GD Chaves,J9,2022-2023
+09/10/2022,Não Agendado,Santa Clara,,Sporting,J9,2022-2023
+23/10/2022,Não Agendado,Estoril Praia,,SC Braga,J10,2022-2023
+23/10/2022,Não Agendado,FC Famalicão,,Paços de Ferreira,J10,2022-2023
+23/10/2022,Não Agendado,FC Porto,,Benfica,J10,2022-2023
+23/10/2022,Não Agendado,FC Vizela,,Santa Clara,J10,2022-2023
+23/10/2022,Não Agendado,GD Chaves,,Gil Vicente,J10,2022-2023
+23/10/2022,Não Agendado,Marítimo,,FC Arouca,J10,2022-2023
+23/10/2022,Não Agendado,Rio Ave,,Portimonense,J10,2022-2023
+23/10/2022,Não Agendado,Sporting,,Casa Pia,J10,2022-2023
+23/10/2022,Não Agendado,Vitória SC,,Boavista,J10,2022-2023
+30/10/2022,Não Agendado,Benfica,,GD Chaves,J11,2022-2023
+30/10/2022,Não Agendado,Boavista,,FC Vizela,J11,2022-2023
+30/10/2022,Não Agendado,Casa Pia,,Rio Ave,J11,2022-2023
+30/10/2022,Não Agendado,FC Arouca,,Sporting,J11,2022-2023
+30/10/2022,Não Agendado,Gil Vicente,,SC Braga,J11,2022-2023
+30/10/2022,Não Agendado,Paços de Ferreira,,Marítimo,J11,2022-2023
+30/10/2022,Não Agendado,Portimonense,,Estoril Praia,J11,2022-2023
+30/10/2022,Não Agendado,Santa Clara,,FC Porto,J11,2022-2023
+30/10/2022,Não Agendado,Vitória SC,,FC Famalicão,J11,2022-2023
+06/11/2022,Não Agendado,Estoril Praia,,Benfica,J12,2022-2023
+06/11/2022,Não Agendado,FC Porto,,Paços de Ferreira,J12,2022-2023
+06/11/2022,Não Agendado,FC Vizela,,FC Arouca,J12,2022-2023
+06/11/2022,Não Agendado,GD Chaves,,Santa Clara,J12,2022-2023
+06/11/2022,Não Agendado,Gil Vicente,,Portimonense,J12,2022-2023
+06/11/2022,Não Agendado,Marítimo,,FC Famalicão,J12,2022-2023
+06/11/2022,Não Agendado,Rio Ave,,Boavista,J12,2022-2023
+06/11/2022,Não Agendado,SC Braga,,Casa Pia,J12,2022-2023
+06/11/2022,Não Agendado,Sporting,,Vitória SC,J12,2022-2023
+13/11/2022,Não Agendado,Benfica,,Gil Vicente,J13,2022-2023
+13/11/2022,Não Agendado,Boavista,,FC Porto,J13,2022-2023
+13/11/2022,Não Agendado,Casa Pia,,GD Chaves,J13,2022-2023
+13/11/2022,Não Agendado,FC Arouca,,Rio Ave,J13,2022-2023
+13/11/2022,Não Agendado,FC Famalicão,,Sporting,J13,2022-2023
+13/11/2022,Não Agendado,Paços de Ferreira,,FC Vizela,J13,2022-2023
+13/11/2022,Não Agendado,Portimonense,,SC Braga,J13,2022-2023
+13/11/2022,Não Agendado,Santa Clara,,Estoril Praia,J13,2022-2023
+13/11/2022,Não Agendado,Vitória SC,,Marítimo,J13,2022-2023
+28/12/2022,Não Agendado,Estoril Praia,,Boavista,J14,2022-2023
+28/12/2022,Não Agendado,FC Porto,,FC Arouca,J14,2022-2023
+28/12/2022,Não Agendado,FC Vizela,,Vitória SC,J14,2022-2023
+28/12/2022,Não Agendado,GD Chaves,,FC Famalicão,J14,2022-2023
+28/12/2022,Não Agendado,Gil Vicente,,Santa Clara,J14,2022-2023
+28/12/2022,Não Agendado,Portimonense,,Casa Pia,J14,2022-2023
+28/12/2022,Não Agendado,Rio Ave,,Marítimo,J14,2022-2023
+28/12/2022,Não Agendado,SC Braga,,Benfica,J14,2022-2023
+28/12/2022,Não Agendado,Sporting,,Paços de Ferreira,J14,2022-2023
+08/01/2023,Não Agendado,Benfica,,Portimonense,J15,2022-2023
+08/01/2023,Não Agendado,Boavista,,Gil Vicente,J15,2022-2023
+08/01/2023,Não Agendado,Casa Pia,,FC Porto,J15,2022-2023
+08/01/2023,Não Agendado,FC Arouca,,Estoril Praia,J15,2022-2023
+08/01/2023,Não Agendado,FC Famalicão,,FC Vizela,J15,2022-2023
+08/01/2023,Não Agendado,Marítimo,,Sporting,J15,2022-2023
+08/01/2023,Não Agendado,Paços de Ferreira,,GD Chaves,J15,2022-2023
+08/01/2023,Não Agendado,Santa Clara,,SC Braga,J15,2022-2023
+08/01/2023,Não Agendado,Vitória SC,,Rio Ave,J15,2022-2023
+15/01/2023,Não Agendado,Benfica,,Sporting,J16,2022-2023
+15/01/2023,Não Agendado,Estoril Praia,,Casa Pia,J16,2022-2023
+15/01/2023,Não Agendado,FC Porto,,FC Famalicão,J16,2022-2023
+15/01/2023,Não Agendado,FC Vizela,,Marítimo,J16,2022-2023
+15/01/2023,Não Agendado,GD Chaves,,FC Arouca,J16,2022-2023
+15/01/2023,Não Agendado,Gil Vicente,,Vitória SC,J16,2022-2023
+15/01/2023,Não Agendado,Portimonense,,Santa Clara,J16,2022-2023
+15/01/2023,Não Agendado,Rio Ave,,Paços de Ferreira,J16,2022-2023
+15/01/2023,Não Agendado,SC Braga,,Boavista,J16,2022-2023
+21/01/2023,Não Agendado,Boavista,,GD Chaves,J17,2022-2023
+21/01/2023,Não Agendado,Casa Pia,,Gil Vicente,J17,2022-2023
+21/01/2023,Não Agendado,FC Arouca,,Portimonense,J17,2022-2023
+21/01/2023,Não Agendado,FC Famalicão,,Rio Ave,J17,2022-2023
+21/01/2023,Não Agendado,Marítimo,,Estoril Praia,J17,2022-2023
+21/01/2023,Não Agendado,Paços de Ferreira,,SC Braga,J17,2022-2023
+21/01/2023,Não Agendado,Santa Clara,,Benfica,J17,2022-2023
+21/01/2023,Não Agendado,Sporting,,FC Vizela,J17,2022-2023
+21/01/2023,Não Agendado,Vitória SC,,FC Porto,J17,2022-2023
+29/01/2023,Não Agendado,Boavista,,Portimonense,J18,2022-2023
+29/01/2023,Não Agendado,Casa Pia,,Santa Clara,J18,2022-2023
+29/01/2023,Não Agendado,FC Arouca,,Benfica,J18,2022-2023
+29/01/2023,Não Agendado,FC Famalicão,,Estoril Praia,J18,2022-2023
+29/01/2023,Não Agendado,FC Vizela,,Rio Ave,J18,2022-2023
+29/01/2023,Não Agendado,Marítimo,,FC Porto,J18,2022-2023
+29/01/2023,Não Agendado,Paços de Ferreira,,Gil Vicente,J18,2022-2023
+29/01/2023,Não Agendado,Sporting,,SC Braga,J18,2022-2023
+29/01/2023,Não Agendado,Vitória SC,,GD Chaves,J18,2022-2023
+05/02/2023,Não Agendado,Benfica,,Casa Pia,J19,2022-2023
+05/02/2023,Não Agendado,Estoril Praia,,Vitória SC,J19,2022-2023
+05/02/2023,Não Agendado,FC Porto,,FC Vizela,J19,2022-2023
+05/02/2023,Não Agendado,GD Chaves,,Marítimo,J19,2022-2023
+05/02/2023,Não Agendado,Gil Vicente,,FC Arouca,J19,2022-2023
+05/02/2023,Não Agendado,Portimonense,,Paços de Ferreira,J19,2022-2023
+05/02/2023,Não Agendado,Rio Ave,,Sporting,J19,2022-2023
+05/02/2023,Não Agendado,SC Braga,,FC Famalicão,J19,2022-2023
+05/02/2023,Não Agendado,Santa Clara,,Boavista,J19,2022-2023
+12/02/2023,Não Agendado,Boavista,,Casa Pia,J20,2022-2023
+12/02/2023,Não Agendado,FC Arouca,,Santa Clara,J20,2022-2023
+12/02/2023,Não Agendado,FC Famalicão,,Gil Vicente,J20,2022-2023
+12/02/2023,Não Agendado,FC Vizela,,GD Chaves,J20,2022-2023
+12/02/2023,Não Agendado,Marítimo,,SC Braga,J20,2022-2023
+12/02/2023,Não Agendado,Paços de Ferreira,,Benfica,J20,2022-2023
+12/02/2023,Não Agendado,Rio Ave,,Estoril Praia,J20,2022-2023
+12/02/2023,Não Agendado,Sporting,,FC Porto,J20,2022-2023
+12/02/2023,Não Agendado,Vitória SC,,Portimonense,J20,2022-2023
+19/02/2023,Não Agendado,Benfica,,Boavista,J21,2022-2023
+19/02/2023,Não Agendado,Casa Pia,,Vitória SC,J21,2022-2023
+19/02/2023,Não Agendado,Estoril Praia,,Paços de Ferreira,J21,2022-2023
+19/02/2023,Não Agendado,FC Porto,,Rio Ave,J21,2022-2023
+19/02/2023,Não Agendado,GD Chaves,,Sporting,J21,2022-2023
+19/02/2023,Não Agendado,Gil Vicente,,FC Vizela,J21,2022-2023
+19/02/2023,Não Agendado,Portimonense,,Marítimo,J21,2022-2023
+19/02/2023,Não Agendado,SC Braga,,FC Arouca,J21,2022-2023
+19/02/2023,Não Agendado,Santa Clara,,FC Famalicão,J21,2022-2023
+26/02/2023,Não Agendado,FC Arouca,,Casa Pia,J22,2022-2023
+26/02/2023,Não Agendado,FC Famalicão,,Portimonense,J22,2022-2023
+26/02/2023,Não Agendado,FC Porto,,Gil Vicente,J22,2022-2023
+26/02/2023,Não Agendado,FC Vizela,,Benfica,J22,2022-2023
+26/02/2023,Não Agendado,Marítimo,,Santa Clara,J22,2022-2023
+26/02/2023,Não Agendado,Paços de Ferreira,,Boavista,J22,2022-2023
+26/02/2023,Não Agendado,Rio Ave,,GD Chaves,J22,2022-2023
+26/02/2023,Não Agendado,Sporting,,Estoril Praia,J22,2022-2023
+26/02/2023,Não Agendado,Vitória SC,,SC Braga,J22,2022-2023
+05/03/2023,Não Agendado,Benfica,,FC Famalicão,J23,2022-2023
+05/03/2023,Não Agendado,Boavista,,FC Arouca,J23,2022-2023
+05/03/2023,Não Agendado,Casa Pia,,Paços de Ferreira,J23,2022-2023
+05/03/2023,Não Agendado,Estoril Praia,,FC Vizela,J23,2022-2023
+05/03/2023,Não Agendado,GD Chaves,,FC Porto,J23,2022-2023
+05/03/2023,Não Agendado,Gil Vicente,,Marítimo,J23,2022-2023
+05/03/2023,Não Agendado,Portimonense,,Sporting,J23,2022-2023
+05/03/2023,Não Agendado,SC Braga,,Rio Ave,J23,2022-2023
+05/03/2023,Não Agendado,Santa Clara,,Vitória SC,J23,2022-2023
+12/03/2023,Não Agendado,FC Famalicão,,Casa Pia,J24,2022-2023
+12/03/2023,Não Agendado,FC Porto,,Estoril Praia,J24,2022-2023
+12/03/2023,Não Agendado,FC Vizela,,SC Braga,J24,2022-2023
+12/03/2023,Não Agendado,GD Chaves,,Portimonense,J24,2022-2023
+12/03/2023,Não Agendado,Marítimo,,Benfica,J24,2022-2023
+12/03/2023,Não Agendado,Paços de Ferreira,,Santa Clara,J24,2022-2023
+12/03/2023,Não Agendado,Rio Ave,,Gil Vicente,J24,2022-2023
+12/03/2023,Não Agendado,Sporting,,Boavista,J24,2022-2023
+12/03/2023,Não Agendado,Vitória SC,,FC Arouca,J24,2022-2023
+19/03/2023,Não Agendado,Benfica,,Vitória SC,J25,2022-2023
+19/03/2023,Não Agendado,Boavista,,FC Famalicão,J25,2022-2023
+19/03/2023,Não Agendado,Casa Pia,,Marítimo,J25,2022-2023
+19/03/2023,Não Agendado,Estoril Praia,,GD Chaves,J25,2022-2023
+19/03/2023,Não Agendado,FC Arouca,,Paços de Ferreira,J25,2022-2023
+19/03/2023,Não Agendado,Gil Vicente,,Sporting,J25,2022-2023
+19/03/2023,Não Agendado,Portimonense,,FC Vizela,J25,2022-2023
+19/03/2023,Não Agendado,SC Braga,,FC Porto,J25,2022-2023
+19/03/2023,Não Agendado,Santa Clara,,Rio Ave,J25,2022-2023
+02/04/2023,Não Agendado,Estoril Praia,,Gil Vicente,J26,2022-2023
+02/04/2023,Não Agendado,FC Famalicão,,FC Arouca,J26,2022-2023
+02/04/2023,Não Agendado,FC Porto,,Portimonense,J26,2022-2023
+02/04/2023,Não Agendado,FC Vizela,,Casa Pia,J26,2022-2023
+02/04/2023,Não Agendado,GD Chaves,,SC Braga,J26,2022-2023
+02/04/2023,Não Agendado,Marítimo,,Boavista,J26,2022-2023
+02/04/2023,Não Agendado,Rio Ave,,Benfica,J26,2022-2023
+02/04/2023,Não Agendado,Sporting,,Santa Clara,J26,2022-2023
+02/04/2023,Não Agendado,Vitória SC,,Paços de Ferreira,J26,2022-2023
+08/04/2023,Não Agendado,Benfica,,FC Porto,J27,2022-2023
+08/04/2023,Não Agendado,Boavista,,Vitória SC,J27,2022-2023
+08/04/2023,Não Agendado,Casa Pia,,Sporting,J27,2022-2023
+08/04/2023,Não Agendado,FC Arouca,,Marítimo,J27,2022-2023
+08/04/2023,Não Agendado,Gil Vicente,,GD Chaves,J27,2022-2023
+08/04/2023,Não Agendado,Paços de Ferreira,,FC Famalicão,J27,2022-2023
+08/04/2023,Não Agendado,Portimonense,,Rio Ave,J27,2022-2023
+08/04/2023,Não Agendado,SC Braga,,Estoril Praia,J27,2022-2023
+08/04/2023,Não Agendado,Santa Clara,,FC Vizela,J27,2022-2023
+16/04/2023,Não Agendado,Estoril Praia,,Portimonense,J28,2022-2023
+16/04/2023,Não Agendado,FC Famalicão,,Vitória SC,J28,2022-2023
+16/04/2023,Não Agendado,FC Porto,,Santa Clara,J28,2022-2023
+16/04/2023,Não Agendado,FC Vizela,,Boavista,J28,2022-2023
+16/04/2023,Não Agendado,GD Chaves,,Benfica,J28,2022-2023
+16/04/2023,Não Agendado,Marítimo,,Paços de Ferreira,J28,2022-2023
+16/04/2023,Não Agendado,Rio Ave,,Casa Pia,J28,2022-2023
+16/04/2023,Não Agendado,SC Braga,,Gil Vicente,J28,2022-2023
+16/04/2023,Não Agendado,Sporting,,FC Arouca,J28,2022-2023
+23/04/2023,Não Agendado,Benfica,,Estoril Praia,J29,2022-2023
+23/04/2023,Não Agendado,Boavista,,Rio Ave,J29,2022-2023
+23/04/2023,Não Agendado,Casa Pia,,SC Braga,J29,2022-2023
+23/04/2023,Não Agendado,FC Arouca,,FC Vizela,J29,2022-2023
+23/04/2023,Não Agendado,FC Famalicão,,Marítimo,J29,2022-2023
+23/04/2023,Não Agendado,Paços de Ferreira,,FC Porto,J29,2022-2023
+23/04/2023,Não Agendado,Portimonense,,Gil Vicente,J29,2022-2023
+23/04/2023,Não Agendado,Santa Clara,,GD Chaves,J29,2022-2023
+23/04/2023,Não Agendado,Vitória SC,,Sporting,J29,2022-2023
+30/04/2023,Não Agendado,Estoril Praia,,Santa Clara,J30,2022-2023
+30/04/2023,Não Agendado,FC Porto,,Boavista,J30,2022-2023
+30/04/2023,Não Agendado,FC Vizela,,Paços de Ferreira,J30,2022-2023
+30/04/2023,Não Agendado,GD Chaves,,Casa Pia,J30,2022-2023
+30/04/2023,Não Agendado,Gil Vicente,,Benfica,J30,2022-2023
+30/04/2023,Não Agendado,Marítimo,,Vitória SC,J30,2022-2023
+30/04/2023,Não Agendado,Rio Ave,,FC Arouca,J30,2022-2023
+30/04/2023,Não Agendado,SC Braga,,Portimonense,J30,2022-2023
+30/04/2023,Não Agendado,Sporting,,FC Famalicão,J30,2022-2023
+07/05/2023,Não Agendado,Benfica,,SC Braga,J31,2022-2023
+07/05/2023,Não Agendado,Boavista,,Estoril Praia,J31,2022-2023
+07/05/2023,Não Agendado,Casa Pia,,Portimonense,J31,2022-2023
+07/05/2023,Não Agendado,FC Arouca,,FC Porto,J31,2022-2023
+07/05/2023,Não Agendado,FC Famalicão,,GD Chaves,J31,2022-2023
+07/05/2023,Não Agendado,Marítimo,,Rio Ave,J31,2022-2023
+07/05/2023,Não Agendado,Paços de Ferreira,,Sporting,J31,2022-2023
+07/05/2023,Não Agendado,Santa Clara,,Gil Vicente,J31,2022-2023
+07/05/2023,Não Agendado,Vitória SC,,FC Vizela,J31,2022-2023
+14/05/2023,Não Agendado,Estoril Praia,,FC Arouca,J32,2022-2023
+14/05/2023,Não Agendado,FC Porto,,Casa Pia,J32,2022-2023
+14/05/2023,Não Agendado,FC Vizela,,FC Famalicão,J32,2022-2023
+14/05/2023,Não Agendado,GD Chaves,,Paços de Ferreira,J32,2022-2023
+14/05/2023,Não Agendado,Gil Vicente,,Boavista,J32,2022-2023
+14/05/2023,Não Agendado,Portimonense,,Benfica,J32,2022-2023
+14/05/2023,Não Agendado,Rio Ave,,Vitória SC,J32,2022-2023
+14/05/2023,Não Agendado,SC Braga,,Santa Clara,J32,2022-2023
+14/05/2023,Não Agendado,Sporting,,Marítimo,J32,2022-2023
+21/05/2023,Não Agendado,Boavista,,SC Braga,J33,2022-2023
+21/05/2023,Não Agendado,Casa Pia,,Estoril Praia,J33,2022-2023
+21/05/2023,Não Agendado,FC Arouca,,GD Chaves,J33,2022-2023
+21/05/2023,Não Agendado,FC Famalicão,,FC Porto,J33,2022-2023
+21/05/2023,Não Agendado,Marítimo,,FC Vizela,J33,2022-2023
+21/05/2023,Não Agendado,Paços de Ferreira,,Rio Ave,J33,2022-2023
+21/05/2023,Não Agendado,Santa Clara,,Portimonense,J33,2022-2023
+21/05/2023,Não Agendado,Sporting,,Benfica,J33,2022-2023
+21/05/2023,Não Agendado,Vitória SC,,Gil Vicente,J33,2022-2023
+28/05/2023,Não Agendado,Benfica,,Santa Clara,J34,2022-2023
+28/05/2023,Não Agendado,Estoril Praia,,Marítimo,J34,2022-2023
+28/05/2023,Não Agendado,FC Porto,,Vitória SC,J34,2022-2023
+28/05/2023,Não Agendado,FC Vizela,,Sporting,J34,2022-2023
+28/05/2023,Não Agendado,GD Chaves,,Boavista,J34,2022-2023
+28/05/2023,Não Agendado,Gil Vicente,,Casa Pia,J34,2022-2023
+28/05/2023,Não Agendado,Portimonense,,FC Arouca,J34,2022-2023
+28/05/2023,Não Agendado,Rio Ave,,FC Famalicão,J34,2022-2023
+28/05/2023,Não Agendado,SC Braga,,Paços de Ferreira,J34,2022-2023
